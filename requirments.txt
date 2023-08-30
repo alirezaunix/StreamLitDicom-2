@@ -1,0 +1,9 @@
+streamlit==1.25.0
+matplotlib==3.7.2
+keras==2.13.1
+pydicom==2.4.2
+tensorflow==2.13.0
+numpy==1.24.3
+glob2
+Pillow==9.5.0
+opencv-python
